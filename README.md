@@ -1,4 +1,4 @@
-# LiquidLauncher
+# Download
 The official launcher for LiquidBounce.
 
 Website: https://liquidbounce.net \
